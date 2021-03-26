@@ -10,7 +10,7 @@
 - Text
 - Function
 - Image
-- Estilizções com StyleSheet
+- Estilizações com StyleSheet
 - Slider
 - Hooks por meio do useState
 - Renderização condicional
